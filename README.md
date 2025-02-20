@@ -1,10 +1,10 @@
 ## Olá, meu nome é Sabrina 👋
 
-Sou uma entusiasta de tecnologia focado(a) em desenvolvimento **backend**, estudando **Java e Spring Boot**. Atualmente, estou aprimorando meus conhecimentos e explorando novas tecnologias para expandir minhas habilidades. 🚀
+Sou uma entusiasta de tecnologia focada em desenvolvimento **backend**, estudando **Java e Spring Boot**. Atualmente, estou aprimorando meus conhecimentos e explorando novas tecnologias para expandir minhas habilidades. 🚀
 
 ### 💡 Sobre mim
 - 🎯 Aprendendo **Java, Spring Boot e APIs REST**
-- 📚 Interessado(a) em **backend, bancos de dados e arquitetura de software**
+- 📚 Interessada em **backend, bancos de dados e arquitetura de software**
 - 🔍 Explorando novas tecnologias para evoluir constantemente
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -27,4 +27,4 @@ Sou uma entusiasta de tecnologia focado(a) em desenvolvimento **backend**, estud
 - ✉️ Email: sahjude@hotmail.com
 
 ---
-💡 _Sempre aberto(a) a novas oportunidades e conexões na área de tecnologia!_
+💡 _Sempre aberta a novas oportunidades e conexões na área de tecnologia!_
