@@ -1,4 +1,4 @@
-##Olá, meu nome é Sabrina 👋
+## Olá, meu nome é Sabrina 👋
 
 Sou uma entusiasta de tecnologia focado(a) em desenvolvimento **backend**, estudando **Java e Spring Boot**. Atualmente, estou aprimorando meus conhecimentos e explorando novas tecnologias para expandir minhas habilidades. 🚀
 
@@ -22,7 +22,7 @@ Sou uma entusiasta de tecnologia focado(a) em desenvolvimento **backend**, estud
 
 
 ### 📫 Onde me encontrar
-- [LinkedIn]([https://linkedin.com/in/sabrina-adão)
+- [LinkedIn](https://linkedin.com/in/sabrina-adão)
 - [GitHub](https://github.com/sabriad)
 - ✉️ Email: sahjude@hotmail.com
 
