@@ -14,6 +14,8 @@ Sou uma entusiasta de tecnologia focada em desenvolvimento **backend**, estudand
 - **Frameworks:** Spring Boot
 - **Banco de dados:** SQL
 - **Ferramentas:** Docker, Git/GitHub
+
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabriad&layout=compact&theme=dark)
 
 🔍 Quero aprender no futuro:
