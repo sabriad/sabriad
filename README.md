@@ -9,6 +9,8 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 📌 Atualmente estudando:
+
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
@@ -18,7 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabriad&layout=compact&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabriad&show_icons=true&theme=dark)
 
 ### 📫 Onde me encontrar
 - [LinkedIn](https://linkedin.com/in/sabrina-adão)
